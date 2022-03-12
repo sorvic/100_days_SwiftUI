@@ -1,7 +1,6 @@
 # 100_days_SwiftUI
 
 01_day – variables, constants, strings, and numbers
-
 02_day – Booleans, string interpolation, and checkpoint 1
 03day – Arrays, dictionaries, sets, and enums
 04day – type annotations and checkpoint 2

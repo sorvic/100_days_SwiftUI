@@ -7,6 +7,12 @@ var greeting = "Hello, playground"
 // let = "пусть" (константы)
 let character = "Daphne"
 
+// можно задать пустую константу и дать ей згначение позже
+// НО только один раз!
+let username: String
+username = "@twostraws"
+print(username)
+
 var playerName = "Roy" // camel case
 print(playerName)
 
